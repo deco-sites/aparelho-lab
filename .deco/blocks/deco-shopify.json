@@ -2,10 +2,10 @@
   "__resolveType": "site/apps/deco/shopify.ts",
   "adminAccessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "6378c07c4148a36786a94dc9bf5f351f836991f9d17989e0cf3a0af449d4bc39a93c5b76674866aed1b1d4663bc01ee5",
-    "name": "SHOPIFY_ACCESS_TOKEN"
+    "encrypted": "e499fe861f5532eee826cb9c733f015c2bfd98e7468cffcc373af8ad85911de02c2beac0108a51ab709c32d9b2d337b6",
+    "name": "SHOPIFY_ACCESS_TOKEN_new"
   },
   "platform": "shopify",
   "storeName": "aparelho-lab",
-  "storefrontAccessToken": "cca4911dc0255fc9e26cc150f5e0f2d3"
+  "storefrontAccessToken": "37d9230ec9d2862e9554ab13381bfa93"
 }
